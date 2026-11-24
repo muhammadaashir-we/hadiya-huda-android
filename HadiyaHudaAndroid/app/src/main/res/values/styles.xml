@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.HadiyaHuda" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#A8713F</item>
+        <item name="android:navigationBarColor">#2B1810</item>
+        <item name="android:statusBarColor">#2B1810</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+    </style>
+</resources>
